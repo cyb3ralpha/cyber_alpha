@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "NeuralScan",
+    "slug": "neuralscan",
+    "description": "AI-powered vulnerability scanner that combines static analysis with machine learning to identify security flaws in source code.",
+    "status": "active",
+    "stars": 1243,
+    "forks": 187,
+    "language": "Python",
+    "github": "https://github.com/cyberalpha/neuralscan",
+    "tags": ["AI", "Security", "Python"]
+  },
+  {
+    "id": 2,
+    "name": "PhishGuard",
+    "slug": "phishguard",
+    "description": "Real-time phishing URL detection engine using transformer-based NLP models trained on 2M+ samples.",
+    "status": "active",
+    "stars": 892,
+    "forks": 134,
+    "language": "Python",
+    "github": "https://github.com/cyberalpha/phishguard",
+    "tags": ["NLP", "Phishing", "ML"]
+  },
+  {
+    "id": 3,
+    "name": "CTF-Arsenal",
+    "slug": "ctf-arsenal",
+    "description": "Curated toolkit for CTF competitions — 200+ scripts for crypto, pwn, web, and forensics challenges.",
+    "status": "active",
+    "stars": 2156,
+    "forks": 431,
+    "language": "Python",
+    "github": "https://github.com/cyberalpha/ctf-arsenal",
+    "tags": ["CTF", "Tools", "Python"]
+  }
+]

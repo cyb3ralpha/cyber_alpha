@@ -1,0 +1,19 @@
+{
+  "site_name": "Cyber Alpha",
+  "tagline": "Cybersecurity Expert, AI Researcher & Educator",
+  "owner_name": "Abdullah Ismail",
+  "owner_email": "hello@cyberalpha.dev",
+  "github": "https://github.com/cyberalpha",
+  "linkedin": "https://linkedin.com/in/cyberalpha",
+  "twitter": "https://twitter.com/cyberalpha",
+  "discord": "https://discord.gg/cyberalpha",
+  "youtube": "https://youtube.com/@cyberalpha",
+  "available_for_hire": true,
+  "hero_subtitle": "Cybersecurity_",
+  "hero_description": "Abdullah Ismail — cybersecurity researcher, AI engineer, and educator. I break things to understand them, then teach others how to defend them. Turning complexity into clarity since 2017.",
+  "stats_articles": "150+",
+  "stats_projects": "40+",
+  "stats_students": "12,000+",
+  "stats_ctf_wins": "87",
+  "stats_bug_bounties": "34"
+}

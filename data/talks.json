@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "AI-Powered Cyber Attacks: What's Coming Next",
+    "event": "Black Hat USA 2024",
+    "date": "2024-08-08",
+    "location": "Las Vegas, NV",
+    "type": "keynote",
+    "status": "completed",
+    "description": "Exploring how threat actors are weaponizing large language models for automated exploit generation, spear phishing, and evasion techniques.",
+    "slides": "https://example.com/slides/ai-cyber-attacks",
+    "video": "https://youtube.com/watch?v=example",
+    "tags": ["AI", "LLM", "Threat Intelligence"]
+  },
+  {
+    "id": 2,
+    "title": "Zero-Trust Architecture in Practice",
+    "event": "DEF CON 32",
+    "date": "2024-08-11",
+    "location": "Las Vegas, NV",
+    "type": "talk",
+    "status": "completed",
+    "description": "Real-world implementation lessons from deploying zero-trust in enterprise environments — what works, what fails, and why.",
+    "slides": "",
+    "video": "",
+    "tags": ["Zero-Trust", "Enterprise", "Architecture"]
+  },
+  {
+    "id": 3,
+    "title": "Bug Bounty to Full-Time: The Hacker Career Path",
+    "event": "CyberConf MENA 2025",
+    "date": "2025-03-15",
+    "location": "Dubai, UAE",
+    "type": "keynote",
+    "status": "upcoming",
+    "description": "From hobbyist to professional: how to build a career in cybersecurity through bug bounties, CTFs, and open source contributions.",
+    "slides": "",
+    "video": "",
+    "tags": ["Career", "Bug Bounty", "CTF"]
+  }
+]

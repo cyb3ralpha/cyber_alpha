@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Adversarial Attacks on AI-Powered Intrusion Detection Systems",
+    "type": "paper",
+    "status": "published",
+    "date": "2024-10-01",
+    "journal": "IEEE Symposium on Security and Privacy",
+    "abstract": "We demonstrate that state-of-the-art ML-based IDS can be systematically evaded using gradient-based adversarial perturbations, achieving 94% evasion rates against top-performing models.",
+    "link": "https://example.com/paper-1",
+    "tags": ["AI Security", "IDS", "Adversarial ML"]
+  },
+  {
+    "id": 2,
+    "title": "CVE-2024-XXXX: Remote Code Execution in Popular VPN Client",
+    "type": "cve",
+    "status": "published",
+    "date": "2024-09-15",
+    "journal": "NVD / Full Disclosure",
+    "abstract": "A stack-based buffer overflow in the authentication module of [Vendor] VPN client allows unauthenticated remote attackers to execute arbitrary code with SYSTEM privileges.",
+    "link": "https://cve.mitre.org/",
+    "tags": ["CVE", "RCE", "VPN"]
+  },
+  {
+    "id": 3,
+    "title": "LLM Prompt Injection: Taxonomy and Defenses",
+    "type": "paper",
+    "status": "preprint",
+    "date": "2024-11-20",
+    "journal": "arXiv",
+    "abstract": "A comprehensive taxonomy of prompt injection attack vectors against LLM-integrated applications, with empirical evaluation of current mitigation strategies.",
+    "link": "https://arxiv.org/",
+    "tags": ["LLM", "Prompt Injection", "AI Security"]
+  }
+]

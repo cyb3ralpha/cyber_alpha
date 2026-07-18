@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "Web Application Security",
+    "level": "beginner",
+    "duration": "12 weeks",
+    "description": "Master web hacking from HTTP fundamentals to advanced exploitation techniques used in real bug bounties.",
+    "status": "active",
+    "lessons": [
+      "HTTP & Web Fundamentals",
+      "OWASP Top 10 Deep Dive",
+      "SQL Injection Mastery",
+      "XSS & CSRF Attacks",
+      "Authentication Bypass",
+      "API Security Testing",
+      "Business Logic Flaws",
+      "Practical Bug Bounty"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "AI Security Engineering",
+    "level": "advanced",
+    "duration": "10 weeks",
+    "description": "Securing AI/ML systems — from adversarial attacks to prompt injection and model theft.",
+    "status": "active",
+    "lessons": [
+      "ML Security Fundamentals",
+      "Adversarial Examples",
+      "Prompt Injection Attacks",
+      "Model Stealing & Inversion",
+      "LLM Red Teaming",
+      "Secure AI Deployment"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Red Team Operations",
+    "level": "intermediate",
+    "duration": "16 weeks",
+    "description": "Full adversary simulation from initial recon to domain dominance.",
+    "status": "active",
+    "lessons": [
+      "OSINT & Reconnaissance",
+      "Initial Access Techniques",
+      "Privilege Escalation",
+      "Lateral Movement",
+      "Persistence & Evasion",
+      "C2 Frameworks",
+      "Active Directory Attacks",
+      "Reporting & Debrief"
+    ]
+  }
+]

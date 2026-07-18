@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Breaking Down JWT Authentication Vulnerabilities",
+    "slug": "jwt-auth-vulnerabilities",
+    "category": "Web Security",
+    "status": "published",
+    "excerpt": "A deep dive into common JWT implementation flaws and how attackers exploit weak secret keys, algorithm confusion, and claim injection.",
+    "date": "2024-11-20",
+    "views": 3841,
+    "tags": ["JWT", "Authentication", "Web Security"]
+  },
+  {
+    "id": 2,
+    "title": "Prompt Injection in LLM-Powered Applications",
+    "slug": "prompt-injection-llm",
+    "category": "AI Security",
+    "status": "published",
+    "excerpt": "How malicious inputs manipulate large language models, bypass safety filters, and exfiltrate data from AI-powered systems.",
+    "date": "2024-11-10",
+    "views": 5122,
+    "tags": ["AI Security", "LLM", "Prompt Injection"]
+  },
+  {
+    "id": 3,
+    "title": "Red Team Operations: Living Off the Land",
+    "slug": "red-team-lolbas",
+    "category": "Red Team",
+    "status": "published",
+    "excerpt": "Using built-in Windows binaries to evade detection during adversary simulation engagements.",
+    "date": "2024-10-28",
+    "views": 2934,
+    "tags": ["Red Team", "LOLBAS", "Windows"]
+  },
+  {
+    "id": 4,
+    "title": "Zero-Day Discovery Methodology",
+    "slug": "zero-day-methodology",
+    "category": "Research",
+    "status": "draft",
+    "excerpt": "My systematic approach to finding novel vulnerabilities through code review, fuzzing, and behavioral analysis.",
+    "date": "2024-12-01",
+    "views": 0,
+    "tags": ["Research", "Zero-Day", "Fuzzing"]
+  }
+]

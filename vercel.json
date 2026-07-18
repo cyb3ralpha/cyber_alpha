@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "*.php",          "use": "vercel-php@0.7.2" },
+    { "src": "admin/*.php",    "use": "vercel-php@0.7.2" },
+    { "src": "api/*.php",      "use": "vercel-php@0.7.2" },
+    { "src": "css/**",         "use": "@vercel/static" },
+    { "src": "js/**",          "use": "@vercel/static" },
+    { "src": "img/**",         "use": "@vercel/static" },
+    { "src": "admin/css/**",   "use": "@vercel/static" }
+  ],
+  "routes": [
+    { "src": "/css/(.*)",                  "dest": "/css/$1" },
+    { "src": "/js/(.*)",                   "dest": "/js/$1" },
+    { "src": "/img/(.*)",                  "dest": "/img/$1" },
+    { "src": "/admin/css/(.*)",            "dest": "/admin/css/$1" },
+    { "src": "/api/contact",               "dest": "/api/contact.php" },
+    { "src": "/api/subscribe",             "dest": "/api/subscribe.php" },
+    { "src": "/admin/?$",                  "dest": "/admin/index.php" },
+    { "src": "/admin/dashboard",           "dest": "/admin/dashboard.php" },
+    { "src": "/admin/articles",            "dest": "/admin/articles.php" },
+    { "src": "/admin/article-editor",      "dest": "/admin/article-editor.php" },
+    { "src": "/admin/projects",            "dest": "/admin/projects.php" },
+    { "src": "/admin/talks",               "dest": "/admin/talks.php" },
+    { "src": "/admin/research",            "dest": "/admin/research.php" },
+    { "src": "/admin/learning-paths",      "dest": "/admin/learning-paths.php" },
+    { "src": "/admin/resources",           "dest": "/admin/resources.php" },
+    { "src": "/admin/contacts",            "dest": "/admin/contacts.php" },
+    { "src": "/admin/settings",            "dest": "/admin/settings.php" },
+    { "src": "/admin/logout",              "dest": "/admin/logout.php" },
+    { "src": "/about",                     "dest": "/about.php" },
+    { "src": "/knowledge-hub",             "dest": "/knowledge-hub.php" },
+    { "src": "/learning-paths",            "dest": "/learning-paths.php" },
+    { "src": "/resources",                 "dest": "/resources.php" },
+    { "src": "/projects",                  "dest": "/projects.php" },
+    { "src": "/research",                  "dest": "/research.php" },
+    { "src": "/talks",                     "dest": "/talks.php" },
+    { "src": "/portfolio",                 "dest": "/portfolio.php" },
+    { "src": "/contact",                   "dest": "/contact.php" },
+    { "src": "/terminal",                  "dest": "/terminal.php" },
+    { "src": "/",                          "dest": "/index.php" }
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Chen",
+    "email": "alex@example.com",
+    "subject": "Speaking Opportunity",
+    "message": "Hi Abdullah, we'd love to have you speak at our annual security conference in March 2025. Would you be available?",
+    "date": "2024-11-22 14:30:00",
+    "read": false
+  },
+  {
+    "id": 2,
+    "name": "Sarah Mitchell",
+    "email": "sarah@techcorp.io",
+    "subject": "Consulting Inquiry",
+    "message": "We are looking for a penetration testing expert for our fintech platform. Could we schedule a call to discuss?",
+    "date": "2024-11-18 09:15:00",
+    "read": true
+  },
+  {
+    "id": 3,
+    "name": "Omar Farouq",
+    "email": "omar@example.net",
+    "subject": "Mentorship Request",
+    "message": "I'm a cybersecurity student and a huge fan of your work. Would you consider taking me on as a mentee?",
+    "date": "2024-11-15 18:45:00",
+    "read": true
+  }
+]

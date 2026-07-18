@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Web Security Cheat Sheet",
+    "type": "cheatsheet",
+    "description": "Quick reference for OWASP Top 10, common payloads, and testing techniques.",
+    "download": "/resources/web-security-cheatsheet.pdf",
+    "status": "active",
+    "tags": ["Web Security", "OWASP", "Cheat Sheet"]
+  },
+  {
+    "id": 2,
+    "title": "Linux Privilege Escalation Checklist",
+    "type": "checklist",
+    "description": "Comprehensive checklist for identifying privesc vectors on Linux systems.",
+    "download": "/resources/linux-privesc.pdf",
+    "status": "active",
+    "tags": ["Linux", "Privilege Escalation", "CTF"]
+  },
+  {
+    "id": 3,
+    "title": "Burp Suite Extensions Pack",
+    "type": "tool",
+    "description": "Curated list of the best Burp Suite extensions for web application testing.",
+    "download": "/resources/burp-extensions.zip",
+    "status": "active",
+    "tags": ["Burp Suite", "Web Testing", "Tools"]
+  },
+  {
+    "id": 4,
+    "title": "CTF Toolkit Scripts",
+    "type": "script",
+    "description": "Python scripts for common CTF tasks: crypto, steg, pwn, and forensics.",
+    "download": "/resources/ctf-toolkit.zip",
+    "status": "active",
+    "tags": ["CTF", "Python", "Scripts"]
+  }
+]
